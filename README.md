@@ -32,3 +32,5 @@ Through this project, I demonstrated my ability to handle complex data queries a
 
 
 This project is a demonstration of my skills in data analysis, SQL querying, data visualization, and presentation design in a business context. It showcases my ability to derive and communicate actionable insights from data, which is crucial for data-driven decision-making in a corporate environment.
+
+Dashboard Link: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMTM3NzM5NTgtNDZjYS00YjcwLWIyOGQtZjcxMTMwMTFhYzJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
