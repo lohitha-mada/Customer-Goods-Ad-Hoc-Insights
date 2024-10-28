@@ -3,6 +3,8 @@
 
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
+**Dashboard Link:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMTM3NzM5NTgtNDZjYS00YjcwLWIyOGQtZjcxMTMwMTFhYzJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=842b261170320cdc2060)
+
 **Challenge**
 * Management noticed they don’t have enough insights to make quick, smart, and data driven decisions.
 * Decision made to expand the data analytics team by adding junior data analysts.
