@@ -5,7 +5,7 @@ Atliq Hardwares (imaginary company) is one of the leading computer hardware prod
 
 **Dashboard Link:** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMTM3NzM5NTgtNDZjYS00YjcwLWIyOGQtZjcxMTMwMTFhYzJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=842b261170320cdc2060)
 
-**Linkedin Post**:[Click Here](https://www.linkedin.com/posts/lohithamada_ad-hoc-insights-activity-7259814450466037760-I4bh?utm_source=share&utm_medium=member_desktop)
+**Linkedin Post**: [Click Here](https://www.linkedin.com/posts/lohithamada_ad-hoc-insights-activity-7259814450466037760-I4bh?utm_source=share&utm_medium=member_desktop)
 
 **Challenge**
 * Management noticed they don’t have enough insights to make quick, smart, and data driven decisions.
